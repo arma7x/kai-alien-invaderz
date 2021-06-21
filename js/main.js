@@ -119,27 +119,27 @@ function welcome() {
 	c.fillText(faq, (w-c.measureText(faq).width)/2, h/7 - 10);
 
 	let guide1 = "You are the last hope of the human kind as the"
-	c.font = "11.5px Arial";
+	c.font = "11px Arial";
 	c.fillText(guide1, (w-c.measureText(guide1).width)/2, h/7);
 
 	let guide2 = "defense against the InvaderZ. They're deployed"
-	c.font = "11.5px Arial";
+	c.font = "11px Arial";
 	c.fillText(guide2, (w-c.measureText(guide2).width)/2, h/7 + (12 * 1));
 
 	let guide3 = "by their mothership with the sole purpose of "
-	c.font = "11.5px Arial";
+	c.font = "11px Arial";
 	c.fillText(guide3, (w-c.measureText(guide3).width)/2, h/7 + (12 * 2));
 
 	let guide4 = "entering earth's atmosphere. Although they're"
-	c.font = "11.5px Arial";
+	c.font = "11px Arial";
 	c.fillText(guide4, (w-c.measureText(guide4).width)/2, h/7 + (12 * 3));
 
 	let guide5 = "are not a danger for you as an individual, if 5"
-	c.font = "11.5px Arial";
+	c.font = "11px Arial";
 	c.fillText(guide5, (w-c.measureText(guide5).width)/2, h/7 + (12 * 4));
 
 	let guide6 = "of them gets through, everything is doomed"
-	c.font = "11.5px Arial";
+	c.font = "11px Arial";
 	c.fillText(guide6, (w-c.measureText(guide6).width)/2, h/7 + (12 * 5));
 
 	let faq1 = "1) Left Arrow - move the cannon to the left     "
