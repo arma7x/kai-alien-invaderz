@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "name": "Alien InvaderZ",
+  "description": "You must defense against the InvaderZ. Although they are not a danger for you as an individual, if 5 of them gets through, everything is doomed",
+  "launch_path": "/index.html",
+  "theme": "#ffffff",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "categories": [
+    "utilities"
+  ],
+  "icons": {
+    "56": "/icons/icon56x56.png",
+    "112": "/icons/icon112x112.png"
+  },
+  "developer": {
+    "name": "arma7x",
+    "url": "https://github.com/arma7x"
+  },
+  "origin": "app://alien-invaderZ.arma7x.com",
+  "type": "web",
+  "permissions": {},
+  "messages": [],
+  "locales": {
+    "en-US": {
+      "name": "Alien InvaderZ",
+      "subtitle": "You must defense against the InvaderZ. Although they are not a danger for you as an individual, if 5 of them gets through, everything is doomed", "description": "You are the last hope of the human kind as the defense against the InvaderZ. They are deployed by their mothership with the sole purpose of entering earth's atmosphere. Although they are not a danger for you as an individual, if 5 of them gets through, everything is doomed. You can only shoot one projectile at the time, so be mindful, as you are not getting another shot until the last fired projectile disperse into the space or hits a target. Each InvaderZ has a shape that influence how they move. When a InvaderZ dies, they upload their progress to the mothership, so it can generate more InvaderZ like the ones who did well before. After each 7 generations of InvaderZ, the mothership generates a complete new wave of InvaderZ keeping only the very best of the last past 7 generations"
+    }
+  },
+  "default_locale": "en-US"
+}
