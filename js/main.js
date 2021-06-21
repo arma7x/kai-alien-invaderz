@@ -150,11 +150,11 @@ function welcome() {
 	c.font = "11px Arial";
 	c.fillText(faq2, (w-c.measureText(faq2).width)/2, h/3.5 + (12 * 5));
 
-	let faq3 = "3) Button 9 - Shoots                                         "
+	let faq3 = "3) Button # - Shoots                                         "
 	c.font = "11px Arial";
 	c.fillText(faq3, (w-c.measureText(faq3).width)/2, h/3.5 + (12 * 6));
 
-	let faq4 = "4) RSK/SoftRight - Exit App                             "
+	let faq4 = "4) RSK/SoftRight - Exit App                              "
 	c.font = "11px Arial";
 	c.fillText(faq4, (w-c.measureText(faq4).width)/2, h/3.5 + (12 * 7));
 
@@ -249,8 +249,8 @@ function addEvents() {
 				if (isGameOver)
 					startGame();
 				break;
-			case 32 :
-			case 57 :
+			case 35 :
+			case 163 :
 				if (!isGameOver)
 					player.shoot();
 				break;
