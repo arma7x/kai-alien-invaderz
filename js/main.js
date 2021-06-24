@@ -47,7 +47,7 @@ function displayKaiAds() {
 		return;
 	getKaiAd({
 		publisher: 'ac3140f7-08d6-46d9-aa6f-d861720fba66',
-		app: 'iptv-tube',
+		app: 'alien-invaderz',
 		slot: 'kaios',
 		onerror: err => console.error(err),
 		onready: ad => {
