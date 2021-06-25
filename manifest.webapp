@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Alien InvaderZ",
   "description": "You must defense against the InvaderZ. Although they are not a danger for you as an individual, if 5 of them gets through, everything is doomed",
   "launch_path": "/index.html",
