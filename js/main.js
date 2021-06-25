@@ -134,7 +134,7 @@ function welcome() {
 	c.font = "11px Arial";
 	c.fillText(guide4, (w-c.measureText(guide4).width)/2, h/7 + (12 * 3));
 
-	let guide5 = "are not a danger for you as an individual, if 5"
+	let guide5 = " not a danger for you as an individual, if 5"
 	c.font = "11px Arial";
 	c.fillText(guide5, (w-c.measureText(guide5).width)/2, h/7 + (12 * 4));
 
